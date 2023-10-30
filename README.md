@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head>
+<title> título do site</title>
+</mead>
+<body>
+  <h1> título do texto </h1>
+  <br>
+  <m2> subtítulo</m2>
+  <m3> subtítulo 2 </m3>
+  <br>
+  <p> parágrafo</p>
+  <br>
+  <p> parágrafo 2 </p>
+</body>
+</html>
 # AnaBia1MA
 esse é o site da Ana
 Ana Beatriz
